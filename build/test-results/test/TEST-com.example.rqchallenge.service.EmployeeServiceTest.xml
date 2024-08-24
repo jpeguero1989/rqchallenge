@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.rqchallenge.service.EmployeeServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-08-24T02:41:44" hostname="PERSONAL-JPEGUE" time="0.341">
+  <properties/>
+  <testcase name="testGetEmployeesByIdPositive()" classname="com.example.rqchallenge.service.EmployeeServiceTest" time="0.328"/>
+  <testcase name="testGetEmployeesByIdNegative()" classname="com.example.rqchallenge.service.EmployeeServiceTest" time="0.004"/>
+  <testcase name="testGetAllEmployees()" classname="com.example.rqchallenge.service.EmployeeServiceTest" time="0.002"/>
+  <testcase name="testGetEmployeesByNameSearchPositive()" classname="com.example.rqchallenge.service.EmployeeServiceTest" time="0.003"/>
+  <testcase name="testGetEmployeesByNameSearchNegative()" classname="com.example.rqchallenge.service.EmployeeServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
